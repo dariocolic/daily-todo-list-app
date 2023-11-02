@@ -1,2 +1,2 @@
-# daily-todo-list-app
+# Daily Todo App
 This project created for for testing purposes
