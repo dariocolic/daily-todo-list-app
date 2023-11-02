@@ -29,7 +29,7 @@ The Daily Todo App is a web-based application designed to help users manage thei
 
 **Task Status Management**
 
-- Today’s task status can be edited by pressing the checkbox input next to the tasks name, a green check means that the task is completed and an empty one means that the task has not been completed.
+- Task status can be edited by pressing the checkbox input next to the tasks name, a green check means that the task is completed and an empty one means that the task has not been completed.
 
 **Overview of previous statuses of tasks**
 
